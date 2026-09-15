@@ -2,7 +2,7 @@
 
 # 🦝 Hi, I'm Akihiro
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=1E3A8A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akihiro+%F0%9F%A6%9D;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81;%E1%80%99%E1%80%84%E1%80%B7%E1%80%B9%E1%80%82%E1%80%9C%E1%80%AB%E1%80%95%E1%80%AB%EF%BC%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=1E3A8A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akihiro+%F0%9F%A6%9D;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81;%E1%80%99%E1%80%84%E1%80%BA%E1%80%B9%E1%80%82%E1%80%9C%E1%80%AC%E1%80%95%E1%80%AB%EF%BC%81)](https://git.io/typing-svg)
 
 Student developer in Tokyo, building local-first browser apps under **AkihiroLabs**
 
