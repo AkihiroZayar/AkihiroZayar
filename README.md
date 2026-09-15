@@ -30,14 +30,9 @@ Student developer in Tokyo, building local-first browser apps under **AkihiroLab
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AkihiroZayar&show_icons=true&count_private=true&title_color=1E3A8A&icon_color=1E3A8A&text_color=36454F&bg_color=ffffff&border_color=1E3A8A&hide_border=false" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkihiroZayar&layout=compact&title_color=1E3A8A&text_color=36454F&bg_color=ffffff&border_color=1E3A8A&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AkihiroZayar&theme=flat&no-frame=true&column=4&title_color=1E3A8A&text_color=36454F&background=ffffff" />
+[![Followers](https://img.shields.io/github/followers/AkihiroZayar?style=for-the-badge&logo=github&color=1E3A8A&label=Followers)](https://github.com/AkihiroZayar?tab=followers)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AkihiroZayar&label=Repositories&query=%24.public_repos&color=1E3A8A&style=for-the-badge&logo=github)](https://github.com/AkihiroZayar?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=AkihiroZayar&color=1E3A8A&style=for-the-badge&label=Profile+Views)](https://github.com/AkihiroZayar)
 
 </div>
 
@@ -51,10 +46,17 @@ Lightweight, local-first apps built with vanilla JS, no frameworks unless necess
 
 <div align="center">
 
-<a href="https://github.com/AkihiroZayar/KanjiFlash"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=AkihiroZayar&repo=KanjiFlash&title_color=1E3A8A&text_color=36454F&bg_color=ffffff&border_color=1E3A8A&icon_color=1E3A8A" /></a>
-<a href="https://github.com/AkihiroZayar/POS-SYTEM"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=AkihiroZayar&repo=POS-SYTEM&title_color=1E3A8A&text_color=36454F&bg_color=ffffff&border_color=1E3A8A&icon_color=1E3A8A" /></a>
-<a href="https://github.com/AkihiroZayar/ShiftPay"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=AkihiroZayar&repo=ShiftPay&title_color=1E3A8A&text_color=36454F&bg_color=ffffff&border_color=1E3A8A&icon_color=1E3A8A" /></a>
-<a href="https://github.com/AkihiroZayar/Kanji-Bridge-By-Akihiro"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=AkihiroZayar&repo=Kanji-Bridge-By-Akihiro&title_color=1E3A8A&text_color=36454F&bg_color=ffffff&border_color=1E3A8A&icon_color=1E3A8A" /></a>
+[![KanjiFlash](https://img.shields.io/badge/KanjiFlash-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkihiroZayar/KanjiFlash)
+[![AkiPOS](https://img.shields.io/badge/AkiPOS-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkihiroZayar/POS-SYTEM)
+[![ShiftPay](https://img.shields.io/badge/ShiftPay-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkihiroZayar/ShiftPay)
+[![Kanji Bridge](https://img.shields.io/badge/Kanji%20Bridge-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkihiroZayar/Kanji-Bridge-By-Akihiro)
+
+| Project | What it is |
+|---|---|
+| [KanjiFlash](https://github.com/AkihiroZayar/KanjiFlash) | JLPT kanji quiz app, trilingual UI |
+| [AkiPOS](https://github.com/AkihiroZayar/POS-SYTEM) | Local-first point-of-sale system |
+| [ShiftPay](https://github.com/AkihiroZayar/ShiftPay) | Shift & pay tracking app |
+| [Kanji Bridge](https://github.com/AkihiroZayar/Kanji-Bridge-By-Akihiro) | Furigana tool with PDF export |
 
 </div>
 
@@ -71,7 +73,5 @@ Also in progress: **LibroHiro** (library management system) · **RaccoonOS** (br
 ### AkihiroLabs 🦝
 
 Solo indie studio — mascot **Byte** 🦝
-
-![Visitors](https://komarev.com/ghpvc/?username=AkihiroZayar&color=1E3A8A&style=flat&label=Profile+Views)
 
 </div>
