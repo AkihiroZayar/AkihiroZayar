@@ -11,16 +11,6 @@ Student developer in Tokyo, building local-first browser apps under **AkihiroLab
 
 ---
 
-### Quote of the moment
-
-![Random Quote](https://github-readme-quotes-bay.vercel.app/quote?borderColor=1E3A8A)
-
-### What I build
-
-Lightweight, local-first apps built with vanilla JS, no frameworks unless necessary, and trilingual by default: English, 日本語, and Burmese.
-
-**Current projects:** KanjiFlash · AkiPOS · ShiftPay · Kanji Bridge · LibroHiro · RaccoonOS · HiroCrew
-
 <div align="center">
 
 ### Tech Stack
@@ -32,6 +22,18 @@ Lightweight, local-first apps built with vanilla JS, no frameworks unless necess
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RwHzT7X85) [![Portfolio](https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akihirozayar.github.io/MyPortfolio/)
 
 </div>
+
+---
+
+### What I build
+
+Lightweight, local-first apps built with vanilla JS, no frameworks unless necessary, and trilingual by default: English, 日本語, and Burmese.
+
+**Current projects:** KanjiFlash · AkiPOS · ShiftPay · Kanji Bridge · LibroHiro · RaccoonOS · HiroCrew
+
+### Quote of the moment
+
+![Random Quote](https://github-readme-quotes-bay.vercel.app/quote?borderColor=1E3A8A)
 
 ---
 
