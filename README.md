@@ -55,7 +55,7 @@ Lightweight, local-first apps built with vanilla JS, no frameworks unless necess
 |---|---|
 | [KanjiFlash](https://github.com/AkihiroZayar/KanjiFlash) | JLPT kanji quiz app, trilingual UI |
 | [AkiPOS](https://github.com/AkihiroZayar/POS-SYTEM) | Local-first point-of-sale system |
-| [ShiftPay](https://github.com/AkihiroZayar/ShiftPay) | Shift & pay tracking app |
+| [bytebell](https://github.com/AkihiroZayar/bytepay) | Reminders app |
 | [Kanji Bridge](https://github.com/AkihiroZayar/Kanji-Bridge-By-Akihiro) | Furigana tool with PDF export |
 
 </div>
