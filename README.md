@@ -48,7 +48,7 @@ Lightweight, local-first apps built with vanilla JS, no frameworks unless necess
 
 [![KanjiFlash](https://img.shields.io/badge/KanjiFlash-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkihiroZayar/KanjiFlash)
 [![AkiPOS](https://img.shields.io/badge/AkiPOS-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkihiroZayar/POS-SYTEM)
-[![ShiftPay](https://img.shields.io/badge/ShiftPay-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkihiroZayar/ShiftPay)
+[![bytebell](https://img.shields.io/badge/ShiftPay-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkihiroZayar/bytebell)
 [![Kanji Bridge](https://img.shields.io/badge/Kanji%20Bridge-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkihiroZayar/Kanji-Bridge-By-Akihiro)
 
 | Project | What it is |
