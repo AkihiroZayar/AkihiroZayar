@@ -60,7 +60,7 @@ Lightweight, local-first apps built with vanilla JS, no frameworks unless necess
 
 </div>
 
-Also in progress: **LibroHiro** (library management system) · **RaccoonOS** (browser-based virtual command-line OS) · **HiroCrew** (employee management & kiosk attendance) — not yet public.
+Also in progress: **LibroHiro** (library management system) · **HiroCrew** (employee management & kiosk attendance) — not yet public.
 
 ### Quote of the moment
 
