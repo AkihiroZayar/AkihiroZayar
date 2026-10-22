@@ -20,7 +20,7 @@ Student developer in Tokyo, building local-first browser apps under **AkihiroLab
 
 ### Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RwHzT7X85) [![AkihiroLabs](https://img.shields.io/badge/AkihiroLabs-Website-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akihirozayar.github.io/my-portfolio/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RwHzT7X85) [![AkihiroLabs](https://img.shields.io/badge/AkihiroLabs-Website-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akihirolabs.com)
 
 </div>
 
@@ -32,7 +32,6 @@ Student developer in Tokyo, building local-first browser apps under **AkihiroLab
 
 [![Followers](https://img.shields.io/github/followers/AkihiroZayar?style=for-the-badge&logo=github&color=1E3A8A&label=Followers)](https://github.com/AkihiroZayar?tab=followers)
 [![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AkihiroZayar&label=Repositories&query=%24.public_repos&color=1E3A8A&style=for-the-badge&logo=github)](https://github.com/AkihiroZayar?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=AkihiroZayar&color=1E3A8A&style=for-the-badge&label=Profile+Views)](https://github.com/AkihiroZayar)
 
 </div>
 
@@ -46,7 +45,7 @@ Lightweight, local-first apps built with vanilla JS, no frameworks unless necess
 
 <div align="center">
 
-<a href="https://github.com/AkihiroZayar/akihirolabs-pos"><img src="https://raw.githubusercontent.com/AkihiroZayar/akihirolabs-pos/main/app-icon.png" width="56" alt="AkihiroLabs POS"></a> <a href="https://github.com/AkihiroZayar/shiftpay"><img src="https://raw.githubusercontent.com/AkihiroZayar/shiftpay/main/app-icon.png" width="56" alt="ShiftPay"></a> <a href="https://github.com/AkihiroZayar/bytebell"><img src="https://raw.githubusercontent.com/AkihiroZayar/bytebell/main/app-icon.png" width="56" alt="ByteBell"></a> <a href="https://github.com/AkihiroZayar/kanji-bridge"><img src="https://raw.githubusercontent.com/AkihiroZayar/kanji-bridge/main/app-icon.png" width="56" alt="Kanji Bridge"></a> <a href="https://github.com/AkihiroZayar/numconv"><img src="https://raw.githubusercontent.com/AkihiroZayar/numconv/main/app-icon.png" width="56" alt="NumConv"></a> <a href="https://github.com/AkihiroZayar/cyber-clock"><img src="https://raw.githubusercontent.com/AkihiroZayar/cyber-clock/main/app-icon.png" width="56" alt="Cyber Clock"></a> <a href="https://github.com/AkihiroZayar/utility-bot"><img src="https://raw.githubusercontent.com/AkihiroZayar/utility-bot/main/app-icon.png" width="56" alt="Byte Utility"></a>
+<a href="https://github.com/AkihiroZayar/akihirolabs-pos"><img src="https://raw.githubusercontent.com/AkihiroZayar/akihirolabs-pos/main/app-icon.png" width="56" alt="AkihiroLabs POS"></a> <a href="https://github.com/AkihiroZayar/shiftpay"><img src="https://raw.githubusercontent.com/AkihiroZayar/shiftpay/main/app-icon.png" width="56" alt="ShiftPay"></a> <a href="https://github.com/AkihiroZayar/bytebell"><img src="https://raw.githubusercontent.com/AkihiroZayar/bytebell/main/app-icon.png" width="56" alt="ByteBell"></a> <a href="https://github.com/AkihiroZayar/kanji-bridge"><img src="https://raw.githubusercontent.com/AkihiroZayar/kanji-bridge/main/app-icon.png" width="56" alt="Kanji Bridge"></a> <a href="https://github.com/AkihiroZayar/numconv"><img src="https://raw.githubusercontent.com/AkihiroZayar/numconv/main/app-icon.png" width="56" alt="NumConv"></a> <a href="https://github.com/AkihiroZayar/cyber-clock"><img src="https://raw.githubusercontent.com/AkihiroZayar/cyber-clock/main/app-icon.png" width="56" alt="Cyber Clock"></a>
 
 </div>
 
@@ -58,7 +57,7 @@ Lightweight, local-first apps built with vanilla JS, no frameworks unless necess
 | <img src="https://raw.githubusercontent.com/AkihiroZayar/kanji-bridge/main/app-icon.png" width="36" alt=""> | [Kanji Bridge](https://github.com/AkihiroZayar/kanji-bridge) | Furigana for any Japanese text, with PDF export | [Open ↗](https://akihirozayar.github.io/kanji-bridge/) |
 | <img src="https://raw.githubusercontent.com/AkihiroZayar/numconv/main/app-icon.png" width="36" alt=""> | [NumConv](https://github.com/AkihiroZayar/numconv) | Number system converter with steps and a quiz | [Open ↗](https://akihirozayar.github.io/numconv/) |
 | <img src="https://raw.githubusercontent.com/AkihiroZayar/cyber-clock/main/app-icon.png" width="36" alt=""> | [Cyber Clock](https://github.com/AkihiroZayar/cyber-clock) | Neon desk clock with focus mode | [Open ↗](https://akihirozayar.github.io/cyber-clock/) |
-| <img src="https://raw.githubusercontent.com/AkihiroZayar/utility-bot/main/app-icon.png" width="36" alt=""> | [Byte Utility](https://github.com/AkihiroZayar/utility-bot) | The AkihiroLabs Discord bot | [Discord ↗](https://discord.gg/RwHzT7X85) |
+| | [Byte Utility](https://github.com/AkihiroZayar/utility-bot) | The AkihiroLabs Discord bot | [Discord ↗](https://discord.gg/RwHzT7X85) |
 
 In the lab (not public yet): **HiroCrew** (employee management & kiosk attendance) · **LibroHiro** (library management) · **KanjiFlash** (JLPT kanji quiz).
 
@@ -74,6 +73,6 @@ In the lab (not public yet): **HiroCrew** (employee management & kiosk attendanc
 
 Solo indie studio in Tokyo — mascot **Byte** 🦝
 
-[Offical Website](www.akihirolabs.com) · [Discord](https://discord.gg/RwHzT7X85)
+[Official Website](https://akihirolabs.com) · [Discord](https://discord.gg/RwHzT7X85)
 
 </div>
