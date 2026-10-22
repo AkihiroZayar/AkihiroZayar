@@ -6,7 +6,7 @@
 
 Student developer in Tokyo, building local-first browser apps under **AkihiroLabs**
 
-[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-1E3A8A?style=for-the-badge)](https://discord.gg/RwHzT7X85)
+[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-1E3A8A?style=for-the-badge)](https://discord.gg/HSuaC72xMD)
 
 </div>
 
@@ -20,7 +20,7 @@ Student developer in Tokyo, building local-first browser apps under **AkihiroLab
 
 ### Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RwHzT7X85) [![AkihiroLabs](https://img.shields.io/badge/AkihiroLabs-Website-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akihirolabs.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HSuaC72xMD) [![AkihiroLabs](https://img.shields.io/badge/AkihiroLabs-Website-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akihirolabs.com)
 
 </div>
 
@@ -57,7 +57,7 @@ Lightweight, local-first apps built with vanilla JS, no frameworks unless necess
 | <img src="https://raw.githubusercontent.com/AkihiroZayar/kanji-bridge/main/app-icon.png" width="36" alt=""> | [Kanji Bridge](https://github.com/AkihiroZayar/kanji-bridge) | Furigana for any Japanese text, with PDF export | [Open ↗](https://akihirozayar.github.io/kanji-bridge/) |
 | <img src="https://raw.githubusercontent.com/AkihiroZayar/numconv/main/app-icon.png" width="36" alt=""> | [NumConv](https://github.com/AkihiroZayar/numconv) | Number system converter with steps and a quiz | [Open ↗](https://akihirozayar.github.io/numconv/) |
 | <img src="https://raw.githubusercontent.com/AkihiroZayar/cyber-clock/main/app-icon.png" width="36" alt=""> | [Cyber Clock](https://github.com/AkihiroZayar/cyber-clock) | Neon desk clock with focus mode | [Open ↗](https://akihirozayar.github.io/cyber-clock/) |
-| | [Byte Utility](https://github.com/AkihiroZayar/utility-bot) | The AkihiroLabs Discord bot | [Discord ↗](https://discord.gg/RwHzT7X85) |
+| | [Byte Utility](https://github.com/AkihiroZayar/utility-bot) | The AkihiroLabs Discord bot | [Discord ↗](https://discord.gg/HSuaC72xMD) |
 
 In the lab (not public yet): **HiroCrew** (employee management & kiosk attendance) · **LibroHiro** (library management) · **KanjiFlash** (JLPT kanji quiz).
 
@@ -73,6 +73,6 @@ In the lab (not public yet): **HiroCrew** (employee management & kiosk attendanc
 
 Solo indie studio in Tokyo — mascot **Byte** 🦝
 
-[Official Website](https://akihirolabs.com) · [Discord](https://discord.gg/RwHzT7X85)
+[Official Website](https://akihirolabs.com) · [Discord](https://discord.gg/HSuaC72xMD)
 
 </div>
