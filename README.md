@@ -74,6 +74,6 @@ In the lab (not public yet): **HiroCrew** (employee management & kiosk attendanc
 
 Solo indie studio in Tokyo — mascot **Byte** 🦝
 
-[akihirozayar.github.io/my-portfolio](akihirolabs.com) · [Discord](https://discord.gg/RwHzT7X85)
+[Offical Website](akihirolabs.com) · [Discord](https://discord.gg/RwHzT7X85)
 
 </div>
